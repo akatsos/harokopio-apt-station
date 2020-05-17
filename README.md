@@ -1,6 +1,6 @@
 # harokopio-apt-station
 
-An <b>Automatic Picture Transmission</b> station created by me for my Bachelor's Thesis.
+An [Automatic Picture Transmission](https://en.wikipedia.org/wiki/Automatic_picture_transmission) station created for my Bachelor's Thesis.
 
 Said thesis can be found [here](http://estia.hua.gr/browse/23032). (Greek)
 
